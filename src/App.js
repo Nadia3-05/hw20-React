@@ -7,18 +7,21 @@ import {BrowserRouter , Route, Routes} from 'react-router-dom';
 
 function App() {
   return (
+    <BrowserRouter>
     <div ><>
       <SideBar />
-      <BrowserRouter>
+      
         <Routes>
-          <Route exact path="/" element={<Main />} />
+          {/* <Route path='*' element={<SignIn />} /> */}
+          <Route path="/" element={<Main />} />
           <Route path="/post" element={<Post />} />
           <Route path="/photo" element={<Photo />} />
           <Route path="/contacts" element={<Contacts />} />
         </Routes>
-      </BrowserRouter>
+     
       </>
     </div>
+    </BrowserRouter>
   );
 }
 

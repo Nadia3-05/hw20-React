@@ -1,6 +1,7 @@
 import React from "react"
 import avatar from "../img/avatar.jpg"
 import "../style/SideBar.css"
+import {Link} from 'react-router-dom';
 
 export const SideBar =() => {
     return(
@@ -13,16 +14,16 @@ export const SideBar =() => {
                     
                 <nav>
                    
-                    <a href="/">Main</a>
+                    <Link to ="/">Main</Link>
                     <hr />
 
-                    <a href="/post">Posts</a>
+                    <Link to ="/post">Posts</Link>
                     <hr />
 
-                    <a href="/photo">Photo</a>
+                    <Link to ="/photo">Photo</Link>
                     <hr />
 
-                    <a href="/contacts">Contacts</a>
+                    <Link to ="/contacts">Contacts</Link>
                     <hr />
 
                 </nav>
