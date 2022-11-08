@@ -1,0 +1,23 @@
+.headerSection{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #d1b4ec;
+}
+.Photo img{
+    width: 100px;
+    height: auto;
+}
+.Photo{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.postSection{
+    width: 84%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

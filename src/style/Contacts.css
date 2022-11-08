@@ -1,0 +1,25 @@
+.Contacts{
+    margin-left: 16%;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(233, 214, 238);
+   
+}
+.headerContacts{
+    margin: 0;
+    text-align: left;
+    height: 50px;
+    background-color: #d1b4ec;
+    margin-bottom: 30px;
+    padding-top: 1px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+}
+.inputStyle{
+    width: 60%;
+    height: 30px;
+}
+.inputStyle:hover{
+    background-color: #e4dbec78;
+}

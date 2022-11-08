@@ -1,0 +1,24 @@
+.headerSection{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(209, 180, 236);
+}
+.Post img{
+    width: 100px;
+    height: auto;
+}
+   
+.Post{
+    max-width: 200px;
+}
+   
+.postSection{
+    width: 84%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

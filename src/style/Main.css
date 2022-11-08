@@ -1,0 +1,36 @@
+.main{
+  width: 84%;
+  height: 100vh;
+  margin-left: 16%;
+  background-color: rgb(233, 214, 238);    
+}
+.info{
+  padding: 1px;
+  font-family: cursive;
+  font-size: 36px;
+  font-weight: 500;
+ 
+}
+.info h2{
+  cursor: pointer;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.info h2:hover{
+  color: rgb(208, 47, 143);
+}
+
+.info p{
+  text-align: center;
+}
+
+.photo{
+  text-align: center;
+  margin-top: 10%;
+}
+.logo{
+  background-color: rgb(233, 214, 238);
+  height: 20%;
+  width: 20%;
+}
