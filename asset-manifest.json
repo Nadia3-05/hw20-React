@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw20-react/static/css/main.c33030a7.css",
-    "main.js": "/hw20-react/static/js/main.a8ec933d.js",
+    "main.js": "/hw20-react/static/js/main.6f00ad7d.js",
     "static/js/787.65acb0b0.chunk.js": "/hw20-react/static/js/787.65acb0b0.chunk.js",
     "static/media/log.png": "/hw20-react/static/media/log.f23edf078941cb7ce1d3.png",
     "static/media/avatar.jpg": "/hw20-react/static/media/avatar.caa5228ed5f5e6df6834.jpg",
@@ -9,11 +9,11 @@
     "static/media/img.jpg": "/hw20-react/static/media/img.22a204b5869df096948e.jpg",
     "index.html": "/hw20-react/index.html",
     "main.c33030a7.css.map": "/hw20-react/static/css/main.c33030a7.css.map",
-    "main.a8ec933d.js.map": "/hw20-react/static/js/main.a8ec933d.js.map",
+    "main.6f00ad7d.js.map": "/hw20-react/static/js/main.6f00ad7d.js.map",
     "787.65acb0b0.chunk.js.map": "/hw20-react/static/js/787.65acb0b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c33030a7.css",
-    "static/js/main.a8ec933d.js"
+    "static/js/main.6f00ad7d.js"
   ]
 }
